@@ -1,3 +1,10 @@
+# 2026.02.09：增加了对MAC｜Linux 平台的支持 
+
+执行文件：`cnblog_markdown.sh`
+
+
+--- 
+
 # pycnblog
 
 博客园上传markdown文件 https://www.cnblogs.com/df888/p/11826480.html
